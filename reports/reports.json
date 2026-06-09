@@ -66,20 +66,20 @@
     "shard": null,
     "tags": [],
     "updateSnapshots": "missing",
-    "updateSourceMethod": "3way",
+    "updateSourceMethod": "patch",
     "version": "1.60.0",
     "workers": 6,
     "webServer": null
   },
   "suites": [
     {
-      "title": "workmodule.spec.js",
-      "file": "workmodule.spec.js",
+      "title": "filehandling.spec.js",
+      "file": "filehandling.spec.js",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "video record",
+          "title": "File handling",
           "ok": true,
           "tags": [],
           "tests": [
@@ -94,12 +94,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 21902,
+                  "duration": 5717,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-06-09T04:38:38.658Z",
+                  "startTime": "2026-06-09T04:47:30.470Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -107,9 +107,9 @@
               "status": "expected"
             }
           ],
-          "id": "1ea315d04ed97cf0cf93-f432f79437f4206de134",
-          "file": "workmodule.spec.js",
-          "line": 3,
+          "id": "e35c91d5f8c3f02c9370-a5d123f3eb538a00a8da",
+          "file": "filehandling.spec.js",
+          "line": 2,
           "column": 5
         }
       ]
@@ -117,8 +117,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-06-09T04:38:37.807Z",
-    "duration": 25704.531000000003,
+    "startTime": "2026-06-09T04:47:30.067Z",
+    "duration": 6597.509999999999,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,

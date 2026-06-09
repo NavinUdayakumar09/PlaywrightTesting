@@ -1,6 +1,6 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="25.704531000000003">
-<testsuite name="workmodule.spec.js" timestamp="2026-06-09T04:38:38.221Z" hostname="chromium" tests="1" failures="0" skipped="0" time="21.902" errors="0">
-<testcase name="video record" classname="workmodule.spec.js" time="21.902">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="6.597509999999999">
+<testsuite name="filehandling.spec.js" timestamp="2026-06-09T04:47:30.088Z" hostname="chromium" tests="1" failures="0" skipped="0" time="5.717" errors="0">
+<testcase name="File handling" classname="filehandling.spec.js" time="5.717">
 </testcase>
 </testsuite>
 </testsuites>
