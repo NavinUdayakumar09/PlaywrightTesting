@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.389706000000238">
+<testsuite name="assertions.spec.js" timestamp="2026-05-27T04:33:30.692Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.178" errors="0">
+<testcase name="Handling table" classname="assertions.spec.js" time="6.178">
+</testcase>
+</testsuite>
+</testsuites>
